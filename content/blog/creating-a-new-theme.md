@@ -29,7 +29,7 @@ this is a command
 ## edit the file
 $vi foo.md
 +++
-date = "2014-09-28"
+date = "2015-09-28"
 title = "creating a new theme"
 +++
 
